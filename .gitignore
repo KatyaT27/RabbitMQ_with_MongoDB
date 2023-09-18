@@ -1,0 +1,26 @@
+# Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environment
+env/
+
+# Dependency directories
+venv/
+pipenv/
+
+# IDE-specific files and directories
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Editor configuration files
+*.swp
